@@ -1,0 +1,3 @@
+MUSTERMAN
+
+InteractiveVideo{address='https://de.wikipedia.org/wiki/CRUD', tags=[Animal], accessCount=1234, type='Documentary', bitrate=123, duration=PT2H5M, size=1, uploader=Uploader{name='Tovias Nunez'}, date=2000-01-01, resolution=8200}
